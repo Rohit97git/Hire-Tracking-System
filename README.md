@@ -82,6 +82,9 @@ Backend integration (Firebase / MERN stack)
 # Clone the repository
 git clone https://github.com/Rohit97git/Hire-Tracking-System.git
 
+# Sample:
+Linkedin Video: https://lnkd.in/g_Mgw4jX
+
 # Navigate to project folder
 cd hireflow
 
